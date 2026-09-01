@@ -272,3 +272,4 @@ Use third-party automation only after reviewing the current game and platform ru
 **Blox Fruits Auto Farm** • Blox Fruits Auto Quest • Blox Fruits Level Farm • Blox Fruits Mastery • Blox Fruits Boss Farm • Blox Fruits Fruit Tracker • Blox Fruits Island Profiles • Blox Fruits Progression • Roblox Blox Fruits • Farming Profiles • Windows Game Utility
 
 </details>
+                                                                                                    
